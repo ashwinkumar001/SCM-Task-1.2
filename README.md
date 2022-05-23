@@ -1,1 +1,1 @@
-# SCM-Task-1.2
+# SCM-TASK-1.2
